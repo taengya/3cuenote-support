@@ -1,6 +1,3 @@
-title: 3CueNote Support
-description: Support page for the 3CueNote iOS app - 3-cushion carom billiards solution recorder.
----
 
 # 3CueNote Support
 
